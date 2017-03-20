@@ -43,5 +43,18 @@ namespace DivideNumbersTests
             double iloraz = calc.Podziel(-2, -2);
             Assert.AreEqual(1, iloraz);
         }
+
+        [Test]
+        public void Podziel_DivideByZero_Exception()
+        {
+            var calc = new DivideNumbers.DivideNumbers();
+            try
+            {
+                double iloraz = calc.Podziel(10, 0);
+            }
+            catch (DivideNumbers.DivideByZeroException expected)
+            {
+            }
+        }
     }
 }
