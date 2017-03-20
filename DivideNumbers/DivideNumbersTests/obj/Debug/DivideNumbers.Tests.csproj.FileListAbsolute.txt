@@ -1,0 +1,9 @@
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\obj\Debug\DivideNumbers.Tests.csprojResolveAssemblyReference.cache
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\bin\Debug\DivideNumbersTests.dll
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\bin\Debug\DivideNumbersTests.pdb
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\bin\Debug\DivideNumbers.dll
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\bin\Debug\nunit.framework.dll
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\bin\Debug\DivideNumbers.pdb
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\bin\Debug\nunit.framework.xml
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\obj\Debug\DivideNumbersTests.dll
+E:\Zaawansowane_Programowanie\DivideNumbers\DivideNumbersTests\obj\Debug\DivideNumbersTests.pdb
