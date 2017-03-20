@@ -1,0 +1,7 @@
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe\bin\Debug\KontoBankowe.dll
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe\bin\Debug\KontoBankowe.pdb
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe\bin\Debug\nunit.framework.dll
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe\bin\Debug\nunit.framework.xml
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe\obj\Debug\KontoBankowe.dll
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe\obj\Debug\KontoBankowe.pdb

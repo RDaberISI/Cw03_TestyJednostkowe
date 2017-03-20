@@ -1,0 +1,9 @@
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\bin\Debug\KontoBankowe.Tests.dll
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\bin\Debug\KontoBankowe.Tests.pdb
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\bin\Debug\KontoBankowe.dll
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\bin\Debug\nunit.framework.dll
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\bin\Debug\KontoBankowe.pdb
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\bin\Debug\nunit.framework.xml
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.csprojResolveAssemblyReference.cache
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.dll
+E:\Zaawansowane_Programowanie\KontoBankowe\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.pdb
